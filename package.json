@@ -1,5 +1,28 @@
 {
+  "name": "profilegen",
+  "version": "1.0.0",
+  "description": "profileGen ",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib",
+    "test": "test"
+  },
   "dependencies": {
-    "inquirer": "^8.2.4"
-  }
+    "inquirer": "^8.2.4",
+    "jest": "^28.1.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/63csmith/ProfileGen.git"
+  },
+  "author": "smith",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/63csmith/ProfileGen/issues"
+  },
+  "homepage": "https://github.com/63csmith/ProfileGen#readme"
 }
